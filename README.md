@@ -4,7 +4,9 @@ Perl-Port-Scaning-Script
 It Scans Open Ports of TCP Ports For Particular IP Address And Generates Report
 [With NMap and Without NMap]
 
-## WORKING Without NMap:
+## WORKING:
+
+- **Without NMap**:
 
 Here Given the main Scripts known as "scan.pl" and "scan1.pl".Download it.
 
