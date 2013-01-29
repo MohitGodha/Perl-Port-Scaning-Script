@@ -33,7 +33,7 @@ It Scans Open Ports of TCP Ports For Particular IP Address And Generates Report
     
     Go to its path from Command Prompt and Run the Script by the command as:
     
-    c:\Perl>pl scan.pl
+    c:\Perl>perl scan.pl
     
     It Generates Required Output.
     
