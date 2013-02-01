@@ -5,7 +5,7 @@ It Scans Open Ports of TCP Ports For Particular IP Address And Generates Report
 
 ## WORKING:
 
-    - In Ubuntu System:
+    - **In Ubuntu System**:
 
     Here Given the main Scripts known as "scan.pl" and "scan1.pl".Download it.
 
@@ -17,7 +17,7 @@ It Scans Open Ports of TCP Ports For Particular IP Address And Generates Report
     The Script "scan.pl" Generates the Report for Particular IP which you want to Scan Ports,
     And Helps you to See which Ports are Listening/Not Listening/Open On That Particulat IP Address.
     
-    - In Windows 7:
+    - **In Windows 7**:
     
     Download ActivePerl from link: http://www.activestate.com/activeperl/downloads
     
